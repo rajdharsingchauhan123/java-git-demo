@@ -8,6 +8,7 @@ public class generics {
         System.out.println((method(2,5)));
         System.out.println((method(2,"raj")));
         System.out.println((method("taj",'r')));
+        System.out.println((method("taj","rajdharsingh")));
 
 
 
